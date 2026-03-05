@@ -1,5 +1,12 @@
-# Week 1
+# C Programming
 
-Beginning of my programming logic studies.
+Repository with exercises from my programming learning journey.
 
-Exercises and examples in C will be added soon.
+## Week 1
+First exercise in C: calculating averages of three values.
+
+Calculated averages:
+- Arithmetic mean
+- Harmonic mean
+- Geometric mean
+- Weighted mean
