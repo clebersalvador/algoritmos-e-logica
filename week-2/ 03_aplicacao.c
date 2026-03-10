@@ -7,10 +7,10 @@ int main(){
 	printf("Digite o saldo: ");
 	scanf("%f", &saldo);
 	
-	//Cálculo do reajuste
+	//CÃ¡lculo do reajuste
 	novosaldo=saldo*1.075;
 	
-	//Saída do resultado
+	//SaÃ­da do resultado
 	printf("\n\n-----------------------------");
 	printf("\n\nSaldo reajustado: R$ %.2f\n\n", novosaldo);
 	
