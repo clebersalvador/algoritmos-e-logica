@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-	//Vari·veis
+	//Vari√°veis
 	float valor, prest;
 
 	//Entrada do valor
@@ -10,7 +10,7 @@ int main(){
 	//Processamento
 	prest=valor/5;
 	
-	//SaÌda
+	//Sa√≠da
 	printf("\n--------------------------------");
 	printf("\nResumo da compra");
 	printf("\n--------------------------------");
